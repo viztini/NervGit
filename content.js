@@ -1,0 +1,1 @@
+console.log("Evangelion GitHub Theme content script loaded.");

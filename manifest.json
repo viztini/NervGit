@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Evangelion GitHub Theme",
+  "version": "1.0",
+  "description": "Applies an Evangelion Unit 01 and NGE theme to GitHub.",
+  "icons": {
+    "48": "icons/nge-48.png",
+    "96": "icons/nge-96.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://github.com/*"],
+      "css": ["evangelion.css"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "icons/nerv-background.png"
+  ]
+}
