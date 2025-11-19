@@ -1,3 +1,5 @@
+[./eva-title]
+
 # An Evangelion GitHub Theme (Firefox Extension)
 
 A Firefox browser extension that transforms the GitHub interface with a custom theme inspired by Evangelion Unit 01 and the aesthetic of Neon Genesis Evangelion NERV.
