@@ -1,20 +1,15 @@
 {
   "manifest_version": 2,
-  "name": "Evangelion GitHub Theme",
+  "name": "NervGit",
   "version": "1.0",
-  "description": "Applies an Evangelion Unit 01 and NGE theme to GitHub.",
+  "description": "An Evangelion Github Theme",
   "icons": {
-    "48": "icons/nge-48.png",
-    "96": "icons/nge-96.png"
+    "48": "icon.png"
   },
   "content_scripts": [
     {
       "matches": ["*://github.com/*"],
-      "css": ["evangelion.css"],
-      "js": ["content.js"]
+      "css": ["evangelion.css"]
     }
-  ],
-  "web_accessible_resources": [
-    "icons/nerv-background.png"
   ]
 }
