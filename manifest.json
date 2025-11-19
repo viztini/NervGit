@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "NervGit",
+  "name": "An-Evangelion-GitHub-Theme",
   "version": "1.0",
-  "description": "An Evangelion Github Theme",
+  "description": "UNIT-01 Neon Genesis Evangelion theme for GitHub",
   "icons": {
     "48": "icon.png"
   },
