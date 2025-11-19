@@ -6,7 +6,7 @@ A Firefox browser extension that transforms the GitHub interface with a custom t
 
 ## Features
 
-*   **UNIT-01 Styled Color Palette:** Dark backgrounds, prominent red accents, and subtle grey tones.
+*   **UNIT-01 Styled Color Palette:** Purple backgrounds, prominent green accents, and subtle grey tones.
 *   **Curved Corners:** Applies `border-radius` to various GitHub elements for a softer, more modern look.
 *   **Enhanced Dashboard Theming:** Specific styling for the GitHub dashboard feed and repository cards.
 *   **Custom Background Support:** Easily integrate your favorite Evangelion-themed background image.
